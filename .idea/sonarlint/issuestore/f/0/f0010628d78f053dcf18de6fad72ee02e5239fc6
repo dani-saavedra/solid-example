@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ΝΈζώÿÿÿÿ
+F
+java:S1128")Remove this unused import 'proxy.Cuenta'.(υΉΆί8άρ’Ξΰ0
+Q
+java:S1128"/Remove this unused import 'proxy.CuentaNormal'.(¬‡αγωÿÿÿÿ8άρ’Ξΰ0
+P
+java:S1128".Remove this unused import 'proxy.CuentaNueva'.(™ΥΞƒÿÿÿÿÿ8άρ’Ξΰ0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(χ‰ξƒ8έρ’Ξΰ0
