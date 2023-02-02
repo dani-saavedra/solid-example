@@ -4,16 +4,10 @@
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 A
 solid-example.iml,0/e/0ee10defad93f0cf2927134522ff80bf8ac6ee27
-K
-src/proxy/CuentaNormal.java,5/b/5b3f585aeba61ecd4585160f61af93a189d875b1
-E
-src/proxy/Cuenta.java,6/f/6f23248cc5336cb886b610ac264e8590e916537a
 Y
 )test/org/formacion/proxy/TestCuentas.java,1/8/182d030461867ada5190e9c924cb277c39470486
 C
 src/proxy/Test.java,6/d/6d56c1ed35946bdbbfbcb676b64f30e936ce5d5d
-J
-src/proxy/CuentaNueva.java,e/d/ed1324c4cdf6fd23ce9c8aab9b1f1fc686e7aed4
 F
 src/Funcionalidad.java,8/b/8b7184cac283c32ae52fb747bd86c73d11e00a2b
 H
